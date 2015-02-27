@@ -10,7 +10,7 @@ h1 {
 /*---------------------------------------------------*/ 
 h2 {
     font-size: 1.3rem;
-    font-weitght: bold;
+    font-weight: bold;
 }
 /*---------------------------------------------------*/
 address {
@@ -31,3 +31,4 @@ div#wrapper {
     margin: 0 auto;
     text-align: left;
     border: 1px solid #000000;
+}
